@@ -1,0 +1,171 @@
+.btn{
+	display: inline-block;
+	cursor: pointer;
+	padding: 6px 12px;
+	background: #888;
+	font-size: 0.9em;
+	color: #fff !important;
+	text-decoration: none !important;
+	text-align: center;
+	border: none;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	text-shadow: 1px 1px #555;
+}
+.btn:hover{background: #555; text-decoration: none;}
+.btn:hover.btn_noaction:hover{background: #888 !important; cursor: default !important;}
+
+.btn_green{background-color: #00B494; text-shadow: 1px 1px #008068;}
+.btn_green:hover{background-color: #008068;}
+.btn_green_noaction:hover{background: #00B494 !important; cursor: default !important;}
+
+.btn_blue{background-color: #0E96E5; text-shadow: 1px 1px #096397;}
+.btn_blue:hover{background-color: #096397;}
+.btn_blue_noaction:hover{background: #0E96E5 !important; cursor: default !important;}
+
+.btn_yellow{background-color: #FAAD50; text-shadow: 1px 1px #CC8D41;}
+.btn_yellow:hover{background-color: #CC8D41;}
+.btn_yellow_noaction:hover{background: #FAAD50 !important; cursor: default !important;}
+
+.btn_red{background-color: #F45563; text-shadow: 1px 1px #C54550;}
+.btn_red:hover{background-color: #C54550;}
+.btn_red_noaction:hover{background: #F45563 !important; cursor: default !important;}
+
+.font_yellow{color: #FAAD50 !important;}
+.font_green{color: #00B494 !important;}
+.font_blue{color: #0E96E5 !important;}
+.font_red{color: #C54550 !important;}
+.font_purple{color: #B78FD3 !important;}
+.font_vintage{color: #7EB1BC !important;}
+
+.bg_yellow{background-color: #FAAD50 !important;}
+.bg_green{background-color: #00B494 !important;}
+.bg_blue{background-color: #0E96E5 !important;}
+.bg_red{background-color: #C54550 !important;}
+.bg_purple{background-color: #B78FD3 !important;}
+.bg_vintage{background-color: #7EB1BC !important;}
+
+.font_small{font-size: 0.875em !important;}
+.font_normal{font-size: 1em !important;}
+.font_medium{font-size: 1.2em !important;}
+.font_large{font-size: 1.5em !important;}
+.font_big{font-size: 1.8em !important;}
+
+.bar_green{display: inline-block; vertical-align: middle; padding: 4px 10px; background: #00B494; font-size: 0.8em; color: #fff;}
+.bar_blue{display: inline-block; padding: 4px 10px; background: #0E96E5; font-size: 0.8em; color: #fff; text-shadow: 1px 1px #096397;}
+.bar_red{display: inline-block; vertical-align: middle; padding: 4px 10px; background: #F45563; font-size: 0.8em; color: #fff;}
+.bar_yellow{display: inline-block; vertical-align: middle; padding: 4px 10px; background: #FAAD50; font-size: 0.8em; color: #fff;}
+
+a img {border: none;}
+
+img{
+	max-width: 100%;
+	vertical-align: middle;
+}
+
+.panel{
+	padding: 5px;
+	font-weight: 300;
+	background: #fff;
+	font-size: 0.875em;
+}
+
+.no-cont{
+	position: absolute;
+	margin-left: 15%;
+	margin-top: -7%;
+}
+
+.tvshow_gerent_season{
+	display: block;
+	background: #F8F9FB;
+	margin-bottom: 2px; 
+}
+
+.tvshow_gerent_season:nth-child(2n+0){
+	
+}
+
+.tvshow_gerent_season .row_title{
+	display: inline-block;
+	vertical-align: middle;
+	line-height: 21px;
+	font-family: sans-serif;
+	background: #DADDE4;
+	padding: 15.5px 0;
+	color: #47607B;
+	width: 10%;
+	text-align: center
+}
+
+.tvshow_gerent_season .se-o {
+	background: #408bea;
+	color: #fff;
+}
+
+.tvshow_gerent_season .imagen{
+	display: inline-block;
+	color: #47607B;
+	width: 10%;
+	text-align: center
+}
+
+.tvshow_gerent_season .episode{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-color: #d7d7d7;
+	background: #ffffff;
+}
+
+.tvshow_gerent_season .row{
+	display: inline-block;
+	vertical-align: middle;
+	text-align: right;
+	background: #F8F9FB;
+	width: 89%;
+}
+
+.tvshow_gerent_season .row-episode{
+	display: inline-block;
+	vertical-align: middle;
+	text-align: right;
+	width: 89%;
+	background: #ffffff;
+}
+
+.episodes-desactive{
+
+	display: none;
+}
+.episodes-active{
+
+	display: block;
+}
+
+.tvshow_gerent_season .row-episode span.num{
+	float: left;
+	padding: 3px;
+	margin: 10px 0;
+	border-right: solid 1px;
+	border-color: #d7d7d7;
+	width: 80px;
+	text-align: center;
+	font-weight: 600;
+}
+
+.tvshow_gerent_season .row-episode span.title{
+	float: left;
+	padding: 3px;
+	margin: 5px 10px;
+	text-align: center;
+	font-weight: 600;
+}
+
+.tvshow_gerent_season .row .btn{
+	margin-left: 5px !Important;
+}
+
+.tvshow_gerent_season .row-episode .btn{
+	margin-left: 5px !Important;
+}
