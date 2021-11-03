@@ -1,0 +1,752 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2019-09-17 17:50-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Movies"
+msgstr "Filmes"
+
+msgid "movies"
+msgstr "filmes"
+
+msgid "TV Shows"
+msgstr "Séries"
+
+msgid "tv shows"
+msgstr "séries"
+
+msgid "Trailer"
+msgstr "Trailer"
+
+msgid "Movie from"
+msgstr "Filme de"
+
+msgid "Mega Launch"
+msgstr "Lançamento"
+
+msgid "Mega Recent"
+msgstr "Recentes"
+
+msgid "Mega Recommended"
+msgstr "Recomendado"
+
+msgid "Most Watched"
+msgstr "Mais Assistido"
+
+msgid "Movie from <b>%s</b>"
+msgstr "Filme de <b>%s</b>"
+
+msgid "TVshows from <b>%s</b>"
+msgstr "Série de <b>%s</b>"
+
+msgid "NAVIGATE FOR THE CATEGORY YOU LIKE MOST!"
+msgstr "NAVEGUE PELA CATEGORIA QUE VOCÊ GOSTA MAIS GOSTA!"
+
+msgid "Show Players"
+msgstr "Mostrar Player"
+
+msgid "Night Mode"
+msgstr "Modo noturno"
+
+msgid "Update Player"
+msgstr "Atualizar Player"
+
+msgid "Choose a video player"
+msgstr "Escolha um player de vídeo"
+
+msgid "Choose a season"
+msgstr "Escolha uma Temporada"
+
+msgid "Related Movies"
+msgstr "Filmes Relacionados"
+
+msgid "Related TVshows"
+msgstr "Séries Relacionados"
+
+msgid "Liked? Share with your friends!"
+msgstr "Gostou? Compartilhe com os seus amigos!"
+
+msgid "GO BACK TO EARTH!"
+msgstr "VOLTE À TERRA!"
+
+msgid "Watch Category"
+msgstr "Categoria de"
+
+msgid "© Copyright All rights reserved"
+msgstr "© Copyright Todos os direitos reservados"
+
+msgid "Search for movies or tvshows"
+msgstr "Pesquise por Filmes ou Séries"
+
+msgid "No results, please search again."
+msgstr "Nenhum resultado, por favor, procure novamente."
+
+msgid "SHOW PLAYERS"
+msgstr "MOSTRAR PLAYER"
+
+msgid "Watch %s Online"
+msgstr "Assista %s Online"
+
+msgid "{name}: Season {season}"
+msgstr "{name}: temporada {season}"
+
+msgid "Dbmovies - Settings"
+msgstr "Dbmovies - configurações"
+
+msgid "Settings"
+msgstr "Definições"
+
+msgid "Processing.."
+msgstr "Em processamento.."
+
+msgid "Our services are out of line, please try again later"
+msgstr "Nossos serviços estão fora de linha, por favor, tente novamente mais tarde"
+
+msgid "The title does not exist or resources are not available at this time"
+msgstr "O título não existe ou os recursos não estão disponíveis no momento"
+
+msgid "You have not added an API key for Dbmovies"
+msgstr "Você não adicionou uma chave de API para Dbmovies"
+
+msgid "Loading.."
+msgstr "Carregando.."
+
+msgid "Load More"
+msgstr "Carregue mais"
+
+msgid "Import"
+msgstr "Importar"
+
+msgid "Save"
+msgstr "Salve "
+
+msgid "Save Changes"
+msgstr "Salvar alterações"
+
+msgid "Saving.."
+msgstr "Salvando .."
+
+msgid "Unknown error"
+msgstr "Erro desconhecido"
+
+msgid "Connection error"
+msgstr "Erro de conexão"
+
+msgid "Api key invalid or blocked"
+msgstr "Chave de API inválida ou bloqueada"
+
+msgid "There are not enough credits to continue"
+msgstr "Não há créditos suficientes para continuar"
+
+msgid "Process Completed"
+msgstr "Processo completo"
+
+msgid "Service started"
+msgstr "Serviço iniciado"
+
+msgid "Seasons"
+msgstr "Temporadas"
+
+msgid "Episodes"
+msgstr "Episódios"
+
+msgid "Generate new seasons"
+msgstr "Gere novas temporadas"
+
+msgid "Generate Seasons"
+msgstr "Gerar Temporadas"
+
+msgid "There is not yet content to show"
+msgstr "Ainda não há conteúdo para mostrar"
+
+msgid "Generate new episodes"
+msgstr "Gere novos episódios"
+
+msgid "Generate Episodes"
+msgstr "Gerar episódios"
+
+msgid "Get episodes"
+msgstr "Gerar episódios"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "There are still no episodes this season"
+msgstr "Ainda não há episódios para esta temporada"
+
+msgid "Delete"
+msgstr "Excluir"
+
+msgid "Movie Info"
+msgstr "Informação do filme"
+
+msgid "TVShow Info"
+msgstr "Informação de séries"
+
+msgid "Season Info"
+msgstr "Informações da Temporada"
+
+msgid "Watch Free Movie"
+msgstr "Assistir Online Agora"
+
+msgid "Episode Info"
+msgstr "Informação do Episódio"
+
+msgid "Generate data"
+msgstr "Gerar dados"
+
+msgid "Generate data from <strong>imdb.com</strong>"
+msgstr "Gere dados de <strong> imdb.com </strong>"
+
+msgid "E.g. http://www.imdb.com/title/<strong>tt2911666</strong>/"
+msgstr "Por exemplo, http://www.imdb.com/title/<strong>tt2911666</strong>/"
+
+msgid "Movie quality"
+msgstr "Qualidade do filme"
+
+msgid "Is this movie in cinéma quality?"
+msgstr "Este filme está no cinema?"
+
+msgid "Images and trailer"
+msgstr "Imagens e trailer"
+
+msgid "Poster"
+msgstr "Poster"
+
+msgid "Add url image"
+msgstr "Adicionar URL da imagem"
+
+msgid "Main Backdrop"
+msgstr "Pano de fundo"
+
+msgid "Video trailer"
+msgstr "Trailer"
+
+msgid "Add id Youtube video"
+msgstr "Adicionar vídeo do Youtube"
+
+msgid "IMDb.com data"
+msgstr "Dados da IMDb.com"
+
+msgid "Rating IMDb"
+msgstr "Rank IMDb"
+
+msgid "Average / votes"
+msgstr "Média / votos"
+
+msgid "Rated"
+msgstr "Avaliado"
+
+msgid "Country"
+msgstr "País"
+
+msgid "Themoviedb.org data"
+msgstr "Themoviedb.org data"
+
+msgid "ID TMDb"
+msgstr "ID TMDb"
+
+msgid "Original title"
+msgstr "Título original"
+
+msgid "Tag line"
+msgstr "Tag"
+
+msgid "Release Date"
+msgstr "Data de lançamento"
+
+msgid "Runtime"
+msgstr "Duração"
+
+msgid "Director"
+msgstr "Diretor"
+
+msgid "Generate data from <strong>themoviedb.org</strong>"
+msgstr "Gere dados de <strong> themoviedb.org </strong>"
+
+msgid "E.g. https://www.themoviedb.org/tv/<strong>1402</strong>-the-walking-dead"
+msgstr "Por exemplo, https://www.themoviedb.org/tv/<strong>1402</strong>-the-walking-dead"
+
+msgid "Seasons control"
+msgstr "Controle de Temporadas"
+
+msgid "I have generated seasons or I will manually"
+msgstr "Eu vou gerar temporadas manualmente"
+
+msgid "Featured Title"
+msgstr "Título em destaque"
+
+msgid "Do you want to mark this title as a featured item?"
+msgstr "Marcar este título como um item em destaque?"
+
+msgid "More data"
+msgstr "Mais dados"
+
+msgid "ID IMDb"
+msgstr "ID IMDb"
+
+msgid "Original Name"
+msgstr "Nome original"
+
+msgid "Firt air date"
+msgstr "Data do ar Firt"
+
+msgid "Content total posted"
+msgstr "Total de conteúdo publicado"
+
+msgid "Seasons / Episodes"
+msgstr "Temporadas / Episódios"
+
+msgid "Rating TMDb"
+msgstr "Classificação TMDb"
+
+msgid "Episode runtime"
+msgstr "Tempo de execução do episódio"
+
+msgid "Last Episode"
+msgstr "Último episódio"
+
+msgid "Cast"
+msgstr "Elenco"
+
+msgid "Creator"
+msgstr "O Criador"
+
+msgid "E.g. https://www.themoviedb.org/tv/<strong>1402</strong>-the-walking-dead/season/<strong>1</strong>/"
+msgstr "Por exemplo, https://www.themoviedb.org/tv/<strong>1402</strong>-the-walking-dead/season/<strong>1</strong>/"
+
+msgid "Episodes control"
+msgstr "Controle de episódios"
+
+msgid "I generated episodes or add manually"
+msgstr "Eu gerava episódios ou adicionava manualmente"
+
+msgid "Serie name"
+msgstr "Nome da série"
+
+msgid "E.g. https://www.themoviedb.org/tv/<strong>1402</strong>-the-walking-dead/season/<strong>1</strong>/episode/<strong>2</strong>"
+msgstr "Por exemplo: https://www.themoviedb.org/tv/ <strong> 1402 </strong> -a-caminhada-morta / temporada / <strong> 1 </strong> / episode / <strong> 2 </strong>"
+
+msgid "Episode title"
+msgstr "Título do episódio"
+
+msgid "Movie"
+msgstr "Filme"
+
+msgid "Movies manage"
+msgstr "Gerenciar Filmes"
+
+msgid "TV Show"
+msgstr "Série"
+
+msgid "TV series manage"
+msgstr "Gerenciar Série"
+
+msgid "Seasons manage"
+msgstr "Gerenciar Temporadas"
+
+msgid "Episodes manage"
+msgstr "Gerenciar Episódios"
+
+msgid "Requests"
+msgstr "Pedidos"
+
+msgid "Requests %%PENDING_REQUEST%%"
+msgstr "Solicitações %% PENDING_REQUEST %%"
+
+msgid "Requests manage"
+msgstr "Solicitações gerenciar"
+
+msgid "TMDb ID"
+msgstr "ID do TMDb"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Controls"
+msgstr "Controles"
+
+msgid "Solved"
+msgstr "Resolvido"
+
+msgid "Add"
+msgstr "Adicionar"
+
+msgid "Remove"
+msgstr "Remover"
+
+msgid "IMDb ID"
+msgstr "ID da IMDb"
+
+msgid "Reports"
+msgstr "Relatórios"
+
+msgid "Views"
+msgstr "Views"
+
+msgid "Recommend"
+msgstr "Recomende"
+
+msgid "Posts Status"
+msgstr "Status das postagens"
+
+msgid "Get seasons"
+msgstr "Gerar"
+
+msgid "Episode"
+msgstr "Episódio"
+
+msgid "Resumo"
+msgstr ""
+
+msgid "Private"
+msgstr "Privado"
+
+msgid "Draft"
+msgstr "Rascunho"
+
+msgid "Published"
+msgstr "Publicado"
+
+msgid "Pending"
+msgstr "Pendente"
+
+msgid "Future"
+msgstr "Futuro"
+
+msgid "%s options"
+msgstr "%s opções"
+
+msgid "Main settings"
+msgstr "Configurações principais"
+
+msgid "Options Site"
+msgstr "Opções do Site"
+
+msgid "General"
+msgstr "Geral"
+
+msgid "Check whether to activate or deactivate"
+msgstr "Verifique se deseja ativar ou desativar"
+
+msgid "Remove <code>?ver=</code> parameters"
+msgstr "Remover parâmetros <code>?var=</code>"
+
+msgid "Remove HTML, Java Script and CSS Commnets"
+msgstr "Remover HTML, Java Script e Commnets CSS"
+
+msgid "Pages for Mega Theme"
+msgstr "Páginas para o Mega Theme"
+
+msgid "Embed"
+msgstr "Embed"
+
+msgid "Set User Embed page"
+msgstr "Definirpágina da API Embed"
+
+msgid "Set User API page"
+msgstr "Definir página da API"
+
+msgid "Database cache"
+msgstr "Cache do banco de dados"
+
+msgid "Scheduler"
+msgstr "Agendador"
+
+msgid "Cache cleaning"
+msgstr "Limpeza de cache"
+
+msgid "It is important to clean expired cache at least once a day"
+msgstr "É importante limpar o cache expirado pelo menos uma vez por dia"
+
+msgid "Daily"
+msgstr "Diariamente"
+
+msgid "Twice daily"
+msgstr "Duas vezes por dia"
+
+msgid "Hourly"
+msgstr "De hora em hora"
+
+msgid "Storing cache as long as possible can be a very good idea"
+msgstr "Armazenar cache o maior tempo possível pode ser uma boa ideia"
+
+msgid "Set the time in seconds"
+msgstr "Definir o tempo em segundos"
+
+msgid "We recommend storing this cache for at least 86400 seconds"
+msgstr "Recomendamos armazenar esse cache por pelo menos 86400 segundos"
+
+msgid "Customize"
+msgstr "Customizar"
+
+msgid "Customize logos"
+msgstr "Personalizar logotipos"
+
+msgid "Upload your logo using the Upload Button"
+msgstr "Faça o upload do seu logotipo usando o botão Upload"
+
+msgid "Upload a 16 x 16 px image that will represent your website's favicon"
+msgstr "Faça o upload de uma imagem de 16 x 16 px que represente o favicon do seu website"
+
+msgid "Touch icon APP"
+msgstr "Toque no ícone APP"
+
+msgid "Upload a 152 x 152 px image that will represent your Web APP"
+msgstr "Faça o upload de uma imagem de 152 x 152 px que represente seu aplicativo da web"
+
+msgid "Login / Register / WP-Admin"
+msgstr "Login / Register / WP-Admin"
+
+msgid "Footer settings"
+msgstr "Configurações de rodapé"
+
+msgid "Footer copyright"
+msgstr "Rodapé de copyright"
+
+msgid "Modify or remove copyright text"
+msgstr "Modifique ou remova o texto de direitos autorais"
+
+msgid "Apllication Maintenance"
+msgstr "Manutenção de Apllication"
+
+msgid "use this option if necessary"
+msgstr "use esta opção se necessário"
+
+msgid "Your app is currently under <strong>maintenance</strong>"
+msgstr "Seu aplicativo está atualmente em <strong> manutenção </strong>"
+
+msgid "Version App"
+msgstr "Versão App"
+
+msgid "Insert the current version of your application"
+msgstr "Insira a versão atual do seu aplicativo"
+
+msgid "Update App"
+msgstr "Atualizar App"
+
+msgid "enable the field to enable APP update"
+msgstr "ativar o campo para ativar a atualização do APP"
+
+msgid "Your APP has the active update"
+msgstr "Seu aplicativo tem a atualização ativa"
+
+msgid "Links Module"
+msgstr "Módulo de Links"
+
+msgid "Serve Default Player"
+msgstr "Servir Player padrão"
+
+msgid "Serve Player"
+msgstr "Servir Player"
+
+msgid "default"
+msgstr "padrão"
+
+msgid "Remove Server Type"
+msgstr "Remover o tipo de servidor"
+
+msgid "Type Remove"
+msgstr "Tipo Remover"
+
+msgid "Add comma separated values"
+msgstr "Adicionar valores separados por vírgula"
+
+msgid "Mode ADS Google"
+msgstr "Modo ADS Google"
+
+msgid "Add redirect link"
+msgstr "Adicionar link de redirecionamento"
+
+msgid "Mode ADS Autor"
+msgstr "Modo ADS Autor"
+
+msgid "Enable the option for authors to use their own ads"
+msgstr "Ativar a opção de autores usarem seus próprios anúncios"
+
+msgid "Custom Links default"
+msgstr "Links personalizados padrão"
+
+msgid "Add link"
+msgstr "Adicionar link"
+
+msgid "mega: Permalink Settings"
+msgstr "mega: Configurações do Permalink"
+
+msgid "Movies Online - Duration: %s"
+msgstr "Filmes Online - Duração: %s"
+
+msgid "TVShow Online - Duration: %s"
+msgstr "Série Online - Duração: %s"
+
+msgid "Loading..."
+msgstr "Carregando..."
+
+msgid "Reloading.."
+msgstr "Recarregando .."
+
+msgid "Domain has already been registered"
+msgstr "Domínio já registrado"
+
+msgid "Updating database.."
+msgstr "Atualizando banco de dados .."
+
+msgid "Action completed"
+msgstr "Ação concluída"
+
+msgid "The links field is empty"
+msgstr "O campo de links está vazio"
+
+msgid "Do you really want to delete this item?"
+msgstr "Você realmente quer apagar este item?"
+
+msgid "Do you really want to delete this register, once completed this action will not recover the data again?"
+msgstr "Você realmente deseja excluir esse registro, uma vez concluída, essa ação não recuperará os dados novamente?"
+
+msgid "Do you want to publish the links before continuing?"
+msgstr "Você quer publicar os links antes de continuar?"
+
+msgid "Delete cache this Entry"
+msgstr "Excluir cache desse post"
+
+msgid "Delete cache expired"
+msgstr "Excluir cache expirado"
+
+msgid "Delete all cache"
+msgstr "Excluir todo o cache"
+
+msgid "Menu header"
+msgstr "Cabeçalho do menu"
+
+msgid "Menu footer"
+msgstr "Rodapé do menu"
+
+msgid "Season Updated"
+msgstr "Estação Atualizada"
+
+msgid "Updated Episode"
+msgstr "Episódio Atualizado"
+
+msgid "TV Online"
+msgstr "TV Online"
+
+msgid "TV channels"
+msgstr "Canais de TV"
+
+msgid "Add new TV channel"
+msgstr "Adicionar novo"
+
+msgid "Edit channel"
+msgstr "Editar"
+
+msgid "view channel"
+msgstr "ver canal"
+
+msgid "Search channels"
+msgstr "Pesquisar Canais"
+
+msgid "No TV Channel Found"
+msgstr "Nenhum canal de TV encontrado"
+
+msgid "No Channel Found in Trash"
+msgstr "Nenhum canal encontrado no lixo"
+
+msgid "All TV channels"
+msgstr "Todos os canais de tv"
+
+msgid "Category Default"
+msgstr "Categoria Padrão"
+
+msgid "Select a category for releases"
+msgstr "Selecione uma categoria para Lançamentos"
+
+msgid "APP"
+msgstr "Aplicativo"
+
+msgid "Set App page"
+msgstr "Definir página do aplicativo"
+
+msgid "Social"
+msgstr "Social"
+
+msgid "Social networks"
+msgstr "Redes Sociais"
+
+msgid "enable to use your social networks"
+msgstr "ative para usar suas redes sociais"
+
+msgid "Site Color"
+msgstr "Cores do Site"
+
+msgid "Primary color"
+msgstr "Cor Principal"
+
+msgid "Choose a color"
+msgstr "Escolha uma cor"
+
+msgid "Background"
+msgstr "Cor de Fundo"
+
+msgid "place your ad script"
+msgstr "coloque seu script de anúncio"
+
+msgid "Cache Timeout"
+msgstr "Tempo limite de cache"
+
+msgid "Code Script"
+msgstr "Código Script"
+
+msgid "Update info"
+msgstr "Atualizar Informações"
+
+msgid "Generate"
+msgstr "Gerar"
+
+msgid "Check duplicate content"
+msgstr "Verificar conteúdo duplicado"
+
+msgid "Upload now"
+msgstr "Upload agora"
+
+msgid "Upload your 900x 1140 image using the Upload button"
+msgstr "Faça o upload da sua imagem 900x 1140 usando o botão Upload"
+
+msgid "Uncheck this to disable SEO features in the theme, highly recommended if you use any other SEO plugin, that way the themes SEO features won't conflict with the plugin"
+msgstr "Desmarque esta opção para desativar os recursos de SEO no tema, altamente recomendado se você usar qualquer outro plugin de SEO, para que os temas de SEO não entrem em conflito com o plug-in"
+
+msgid "Basic SEO"
+msgstr "SEO Básico"
+
+msgid "Alternative name"
+msgstr "Nome Alternativo"
+
+msgid "Main keywords"
+msgstr "Palavras-chave"
+
+msgid "SEO Features"
+msgstr "Recursos de SEO"
+
+msgid "Upload a 400px by 400px image that will represent your site"
+msgstr "Carregue uma imagem de 400 x 400px que representará seu site"
+
+msgid "Featured image"
+msgstr "Imagem Destaque"
+
+msgid "Site verification"
+msgstr "Verificação do Site"
+
+msgid "Settings here"
+msgstr "Configurar aqui"
